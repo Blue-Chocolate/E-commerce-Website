@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "name": "product 1",
+        "price": 100,
+        "image": "https://th.bing.com/th?id=OIF.a%2fnaipdEg5rzw3h5RrLRwQ&rs=1&pid=ImgDetMain"
+        
+    },
+    {
+        "id": 2,
+        "name": "product 2",
+        "price": 200,
+        "image": "https://th.bing.com/th/id/OIP.-8D-aTX5L3YKOqk0cVtsbgHaGu?rs=1&pid=ImgDetMain"
+    },
+    {
+        "id": 3,
+        "name": "product 3",
+        "price": 300,
+        "image": "https://th.bing.com/th/id/R.6d7109aafba8a7729f1999917975b727?rik=GqdypyUaiB3PuQ&riu=http%3a%2f%2fwww.oakwood.edu%2fzPublic%2fResidence-Halls%2ffreshmen%2ffridge.jpg&ehk=bsLH%2bxpKn0t9xk98GycDqfSF4m%2fzQVZotdSsb10i9IU%3d&risl=&pid=ImgRaw&r=0s"
+    },
+    {
+        "id": 4,
+        "name": "product 4",
+        "price": 400,
+        "image": "https://th.bing.com/th/id/OIP.NRrLjkXaWWJiPQx5SRvecAHaHa?rs=1&pid=ImgDetMain"
+    },
+     {
+        "id": 5,
+        "name": "product 5",
+        "price": 324,
+        "image": "https://th.bing.com/th/id/R.0064873a69e2229d2482913dd28f3931?rik=epMVPOFLrOsCsg&riu=http%3a%2f%2fwww.co.marion.or.us%2fPW%2fES%2fdisposal%2fprograms%2frecycling%2fPublishingImages%2fPages%2felec%2fmicrowave.jpg&ehk=mEBdXNKghS9AxaMHoZgUVK8WK9iBXz4BVjiVcGq%2biqg%3d&risl=&pid=ImgRaw&r=0"
+    }
+]
